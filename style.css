@@ -1,0 +1,31 @@
+body {
+	 background: #FFFFFF;
+ }
+ 
+ .wrap {
+	background-color: yellow;
+}
+ 
+ .main {
+	display: -webkit-flex;
+	-webkit-flex-direction: row;
+}
+
+.nav {
+	background-color: grey;
+	flex-basis: 25%;
+}
+
+.cont {
+	background-color: orange;
+	flex-basis: 75%;
+}
+
+.header {
+	background-color: red;
+}
+
+.footer {
+	background-color: green;
+}
+ 
